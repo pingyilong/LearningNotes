@@ -6,7 +6,7 @@
 
 * [DesignPattern\(设计模式\)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part1/DesignPattern)
 
-*   * [单例模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/单例模式.md)
+* * [单例模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/单例模式.md)
   * [Builder模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/Builder模式.md)
   * [原型模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/原型模式.md)
   * [简单工厂](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/简单工厂.md)
@@ -30,6 +30,7 @@
   * 享元模式
   * [外观模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/外观模式.md)
   * 桥接模式
+* [面向对象六大原则](#)
 
 ---
 
