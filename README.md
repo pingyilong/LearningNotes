@@ -32,8 +32,6 @@
   * 桥接模式
 * [面向对象六大原则](#)
 
-
-
 ---
 
 ## 第二部分
@@ -127,15 +125,7 @@
 
 * [ReadingNotes\(读书笔记\)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part5/ReadingNotes)
 
-  * [《APP研发录》第1章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《APP研发录》第1章读书笔记.md)
-  * [《APP研发录》第2章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《APP研发录》第2章读书笔记.md)
-  * [《Android开发艺术探索》第一章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第一章笔记.md)
-  * [《Android开发艺术探索》第二章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第二章笔记.md)
-  * [《Android开发艺术探索》第三章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第三章笔记.md)
-  * [《Android开发艺术探索》第四章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第四章笔记.md)
-  * [《Android开发艺术探索》第八章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第八章笔记.md)
-  * [《Android开发艺术探索》第十五章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第十五章笔记.md)
-  * [《深入理解Java虚拟机》第12章](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《深入理解java虚拟机》第12章.md)
+  * * [《深入理解Java虚拟机》第12章](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《深入理解java虚拟机》第12章.md)
   * [《Java编程思想》第一章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Java编程思想》第一章读书笔记.md)
   * [《Java编程思想》第二章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Java编程思想》第二章读书笔记.md)
 
